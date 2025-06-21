@@ -3,7 +3,7 @@
 This project explores the application of traditional and novel methods for link prediction in graphs. By utilizing Python, we have implemented various link prediction algorithms and machine learning models to build a powerful recommender system. The system is designed to predict potential connections (links) between nodes in a graph using latent features and majority voting techniques.
 
 ## **Project Structure**
-![Methodology Diagram](methodology.png)
+![Methodology Diagram](Methodology.png)
 The methodology follows three key phases:
 
 ### **1. Data Gathering Approach**
